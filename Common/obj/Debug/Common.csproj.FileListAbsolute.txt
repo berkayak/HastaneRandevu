@@ -1,0 +1,20 @@
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Common\bin\Debug\Common.dll.config
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Common\bin\Debug\Common.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Common\bin\Debug\Common.pdb
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Common\bin\Debug\EntityFramework.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Common\bin\Debug\EntityFramework.xml
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Common\obj\Debug\Common.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Common\obj\Debug\Common.pdb
+C:\Users\Berkay\Desktop\Hastane\Common\bin\Debug\Common.dll.config
+C:\Users\Berkay\Desktop\Hastane\Common\bin\Debug\Common.dll
+C:\Users\Berkay\Desktop\Hastane\Common\bin\Debug\Common.pdb
+C:\Users\Berkay\Desktop\Hastane\Common\bin\Debug\EntityFramework.dll
+C:\Users\Berkay\Desktop\Hastane\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berkay\Desktop\Hastane\Common\bin\Debug\EntityFramework.xml
+C:\Users\Berkay\Desktop\Hastane\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Berkay\Desktop\Hastane\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Berkay\Desktop\Hastane\Common\obj\Debug\Common.dll
+C:\Users\Berkay\Desktop\Hastane\Common\obj\Debug\Common.pdb

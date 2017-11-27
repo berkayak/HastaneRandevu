@@ -1,0 +1,194 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MainLayout.master.cs" Inherits="WebArayuzJavascript.MainLayout" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+
+    <title>Hastane Randevu</title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <!-- Basic Page Needs
+  ================================================== -->
+    <meta charset="utf-8">
+    <meta name="description" content="Free Responsive Html5 Css3 Templates | zerotheme.com">
+    <meta name="author" content="www.zerotheme.com">
+
+    <!-- Mobile Specific Metas
+  ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS
+  ================================================== -->
+    <link rel="stylesheet" href="/zHospital/css/zerogrid.css">
+    <link rel="stylesheet" href="/zHospital/css/style.css">
+    <link rel="stylesheet" href="/zHospital/css/mystyle.css">
+    <link rel="stylesheet" href="/zHospital/css/responsive.css">
+    <link rel="stylesheet" href="/zHospital/css/bootstrap.css">
+
+    <!-- Scripts
+         ================================================== -->
+    <script src="zHospital/js/jquery.min.js"></script>
+
+</head>
+<body>
+    <div class="wrap-body">
+
+        <!--////////////////////////////////////Header-->
+        <header>
+            <div class="top-bar">
+                <div class="wrap-top zerogrid">
+                    <div class="row">
+                        <div class="col-1-2">
+                            <div class="wrap-col">
+                                <ul>
+                                    <li class="mail">
+                                        <p>ContacUst@Gmail.com</p>
+                                    </li>
+                                    <li class="phone">
+                                        <p>80 88888 7</p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-1-2">
+                            <div class="wrap-col f-right">
+                                <div class="top-social">
+                                    <a href="http://www.facebook.com">
+                                        <img src="/zHospital/images/Facebook.png" title="facebook" /></a>
+                                    <a href="http://twitter.com">
+                                        <img src="/zHospital/images/Twitter.png" title="twitter" /></a>
+                                    <a href="http://skype.com">
+                                        <img src="/zHospital/images/Skype.png" title="google" /></a>
+                                    <a href="http://pinterest.com">
+                                        <img src="/zHospital/images/Pinterest.png" title="pinterest" /></a>
+                                    <a href="http://youtube.com">
+                                        <img src="/zHospital/images/Youtoube.png" title="instagram" /></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="wrap-header">
+                <div class="zerogrid">
+                    <div class="row">
+                        <div class="col-1-3">
+                            <div class="wrap-col">
+                                <div class="logo">
+                                    <img src="/zHospital/images/logo.png" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-2-3">
+                            <div class="wrap-col f-right">
+                                <ul>
+                                    <li>
+                                        <%if (Request.Cookies["User"] != null)
+                                          { %>
+                                        <p>
+                                            Tekrar Hoşgeldiniz, <%Response.Write(Request.Cookies["User"].Values["Name"].StringYap());
+                                          } %>
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <form method="get" action="/search" id="search">
+                                            <input name="q" type="text" size="40" placeholder="Search..." />
+                                        </form>
+                                    </li>
+                                    <li>
+                                        <select>
+                                            <option value="audi">Select Month</option>
+                                            <option value="volvo">March 2015</option>
+                                            <option value="saab">Febuary 2015</option>
+                                        </select>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="wrap-banner">
+                <div id="menu">
+                    <nav>
+                        <ul>       <form>                     
+                                <%if (Session["RoleID"].StringYap() == null)
+                                  { %>
+                                <li><a href="Giris.aspx">Giriş</a></li>
+                                <%} %>
+                                <%if (Session["RoleID"].StringYap() == "1" || Session["RoleID"].StringYap() == "2")
+                                  { %>
+                                <li><a href="RandevuAl.aspx">Randevu Al</a></li>
+                                <li><a href="UyelikBilgilerim.aspx">Üyelik Bilgileri</a></li>
+                                <%} %>
+                                <%if (Session["RoleID"].StringYap() == "2")
+                                  { %>
+                                <li><a href="Randevular.aspx">Randevu Listele</a></li>
+                                <li><a href="Hastaneler.aspx">Hastaneler</a></li>
+                                <li><a href="Poliklinikler.aspx">Poliklinikler</a></li>
+                                <li><a href="Doktorlar.aspx">Doktorlar</a></li>
+                                <%} %>
+                                <%if (Session["Kullanici"] != null)
+                                  { %>
+                                <li><a id="A1" href="#" runat="server" onserverclick="btnCikis_Click" style="color:#ce0000">Çıkış</a></li>
+                                <%} %>      
+                            </form>                      
+                        </ul>
+                    </nav>
+                </div>
+                <div class="zerogrid">
+                    <div class="col-2-3">
+                        <div class="wrap-col">
+                            <div class="top-title">
+                                <form id="form1" runat="server">
+                                    <div>
+                                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">                                            
+                                                <script>
+                                                $("#lnkCik").click(function () {
+                                                    PageMethods.CikisYap();
+                                                });
+                                            </script>                                            
+                                        </asp:ContentPlaceHolder>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-1-3">
+                        <div class="wrap-col">
+                            &nbsp
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!--////////////////////////////////////Container-->
+        <section id="container">
+            <div class="wrap-container">
+                <!-----------------content-box-1-------------------->
+                <section class="content-box boxstyle-1 box-1">
+                    <div class="zerogrid">
+                        <div class="row wrap-box">
+                            <!--Start Box-->
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </section>
+        <!--////////////////////////////////////Footer-->
+        <footer>
+            <div class="bottom-footer">
+                <div class="wrap-bottom ">
+                    <div class="copyright">
+                        <p>©2015 - <a href="http://www.zerotheme.com" rel="nofollow" target="_blank" title="Html5 Template">Html5 Template</a> by Zerotheme.com</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>
+

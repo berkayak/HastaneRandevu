@@ -1,0 +1,31 @@
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebArayuzJavascript\bin\WebArayuzJavascript.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebArayuzJavascript\bin\WebArayuzJavascript.pdb
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebArayuzJavascript\obj\Debug\WebArayuzJavascript.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebArayuzJavascript\obj\Debug\WebArayuzJavascript.pdb
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebArayuzJavascript\bin\Business.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebArayuzJavascript\bin\Common.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebArayuzJavascript\bin\Repository.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebArayuzJavascript\bin\EntityFramework.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebArayuzJavascript\bin\Business.pdb
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebArayuzJavascript\bin\Common.pdb
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebArayuzJavascript\bin\Repository.pdb
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebArayuzJavascript\bin\EntityFramework.xml
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebArayuzJavascript\obj\Debug\WebArayuzJavascript.csprojResolveAssemblyReference.cache
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebArayuzJavascript\bin\EntityFramework.SqlServer.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebArayuzJavascript\bin\EntityFramework.SqlServer.xml
+C:\Users\Berkay\Desktop\Hastane\WebArayuzJavascript\bin\WebArayuzJavascript.dll.config
+C:\Users\Berkay\Desktop\Hastane\WebArayuzJavascript\bin\WebArayuzJavascript.dll
+C:\Users\Berkay\Desktop\Hastane\WebArayuzJavascript\bin\WebArayuzJavascript.pdb
+C:\Users\Berkay\Desktop\Hastane\WebArayuzJavascript\bin\Business.dll
+C:\Users\Berkay\Desktop\Hastane\WebArayuzJavascript\bin\Common.dll
+C:\Users\Berkay\Desktop\Hastane\WebArayuzJavascript\bin\EntityFramework.dll
+C:\Users\Berkay\Desktop\Hastane\WebArayuzJavascript\bin\EntityFramework.SqlServer.dll
+C:\Users\Berkay\Desktop\Hastane\WebArayuzJavascript\bin\Repository.dll
+C:\Users\Berkay\Desktop\Hastane\WebArayuzJavascript\bin\Business.pdb
+C:\Users\Berkay\Desktop\Hastane\WebArayuzJavascript\bin\Common.pdb
+C:\Users\Berkay\Desktop\Hastane\WebArayuzJavascript\bin\EntityFramework.xml
+C:\Users\Berkay\Desktop\Hastane\WebArayuzJavascript\bin\EntityFramework.SqlServer.xml
+C:\Users\Berkay\Desktop\Hastane\WebArayuzJavascript\bin\Repository.pdb
+C:\Users\Berkay\Desktop\Hastane\WebArayuzJavascript\obj\Debug\WebArayuzJavascript.csprojResolveAssemblyReference.cache
+C:\Users\Berkay\Desktop\Hastane\WebArayuzJavascript\obj\Debug\WebArayuzJavascript.dll
+C:\Users\Berkay\Desktop\Hastane\WebArayuzJavascript\obj\Debug\WebArayuzJavascript.pdb

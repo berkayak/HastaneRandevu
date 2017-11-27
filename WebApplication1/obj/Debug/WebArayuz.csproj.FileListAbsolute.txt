@@ -1,0 +1,15 @@
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebApplication1\obj\Debug\WebArayuz.csprojResolveAssemblyReference.cache
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebApplication1\bin\WebApplication1.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebApplication1\bin\WebApplication1.pdb
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebApplication1\bin\Business.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebApplication1\bin\Common.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebApplication1\bin\EntityFramework.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebApplication1\bin\Repository.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebApplication1\bin\Business.pdb
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebApplication1\bin\Common.pdb
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebApplication1\bin\EntityFramework.xml
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebApplication1\bin\Repository.pdb
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\WebApplication1\obj\Debug\WebApplication1.pdb

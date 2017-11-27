@@ -1,0 +1,28 @@
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Business\bin\Debug\Business.dll.config
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Business\bin\Debug\Business.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Business\bin\Debug\Business.pdb
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Business\bin\Debug\Common.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Business\bin\Debug\EntityFramework.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Business\bin\Debug\Repository.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Business\bin\Debug\Common.pdb
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Business\bin\Debug\Repository.pdb
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Business\bin\Debug\EntityFramework.xml
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Business\obj\Debug\Business.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Business\obj\Debug\Business.pdb
+C:\Users\Berkay\Desktop\Hastane\Business\bin\Debug\Business.dll.config
+C:\Users\Berkay\Desktop\Hastane\Business\bin\Debug\Business.dll
+C:\Users\Berkay\Desktop\Hastane\Business\bin\Debug\Business.pdb
+C:\Users\Berkay\Desktop\Hastane\Business\bin\Debug\Common.dll
+C:\Users\Berkay\Desktop\Hastane\Business\bin\Debug\EntityFramework.dll
+C:\Users\Berkay\Desktop\Hastane\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berkay\Desktop\Hastane\Business\bin\Debug\Repository.dll
+C:\Users\Berkay\Desktop\Hastane\Business\bin\Debug\Common.pdb
+C:\Users\Berkay\Desktop\Hastane\Business\bin\Debug\Repository.pdb
+C:\Users\Berkay\Desktop\Hastane\Business\bin\Debug\EntityFramework.xml
+C:\Users\Berkay\Desktop\Hastane\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Berkay\Desktop\Hastane\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Berkay\Desktop\Hastane\Business\obj\Debug\Business.dll
+C:\Users\Berkay\Desktop\Hastane\Business\obj\Debug\Business.pdb

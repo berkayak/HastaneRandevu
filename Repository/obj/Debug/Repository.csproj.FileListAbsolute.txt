@@ -1,0 +1,24 @@
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Repository\bin\Debug\Repository.dll.config
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Repository\bin\Debug\Repository.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Repository\bin\Debug\Repository.pdb
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Repository\bin\Debug\Common.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Repository\bin\Debug\EntityFramework.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Repository\bin\Debug\Common.pdb
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Repository\bin\Debug\EntityFramework.xml
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Repository\obj\Debug\Repository.dll
+C:\Users\stajyer2\Documents\Visual Studio 2012\Projects\Hastane\Repository\obj\Debug\Repository.pdb
+C:\Users\Berkay\Desktop\Hastane\Repository\bin\Debug\Repository.dll.config
+C:\Users\Berkay\Desktop\Hastane\Repository\bin\Debug\Repository.dll
+C:\Users\Berkay\Desktop\Hastane\Repository\bin\Debug\Repository.pdb
+C:\Users\Berkay\Desktop\Hastane\Repository\bin\Debug\Common.dll
+C:\Users\Berkay\Desktop\Hastane\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Berkay\Desktop\Hastane\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berkay\Desktop\Hastane\Repository\bin\Debug\Common.pdb
+C:\Users\Berkay\Desktop\Hastane\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Berkay\Desktop\Hastane\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Berkay\Desktop\Hastane\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Berkay\Desktop\Hastane\Repository\obj\Debug\Repository.dll
+C:\Users\Berkay\Desktop\Hastane\Repository\obj\Debug\Repository.pdb
